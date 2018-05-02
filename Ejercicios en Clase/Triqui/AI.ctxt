@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=board
+comment0.target=AI(Board)
+comment1.params=winner
+comment1.target=int\ judge(char)
+comment2.params=
+comment2.target=int\ minimax()
+comment3.params=b\ player
+comment3.target=int\ blueValue(Board,\ char)
+comment4.params=b\ player
+comment4.target=int\ redValue(Board,\ char)
+numComments=5
